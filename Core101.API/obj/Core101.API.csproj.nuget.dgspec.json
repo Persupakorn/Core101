@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.API\\Core101.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.API\\Core101.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.API\\Core101.API.csproj",
+        "projectName": "Core101.API",
+        "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.API\\Core101.API.csproj",
+        "packagesPath": "C:\\Users\\supakorn_y\\.nuget\\packages\\",
+        "outputPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\supakorn_y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj": {
+                "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj"
+              },
+              "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Model\\Core101.Model.csproj": {
+                "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Model\\Core101.Model.csproj"
+              },
+              "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\Core101.Service.csproj": {
+                "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\Core101.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj",
+        "projectName": "Core101.Core",
+        "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj",
+        "packagesPath": "C:\\Users\\supakorn_y\\.nuget\\packages\\",
+        "outputPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\supakorn_y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Model\\Core101.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Model\\Core101.Model.csproj",
+        "projectName": "Core101.Model",
+        "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Model\\Core101.Model.csproj",
+        "packagesPath": "C:\\Users\\supakorn_y\\.nuget\\packages\\",
+        "outputPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\supakorn_y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj",
+        "projectName": "Core101.Reporitory",
+        "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj",
+        "packagesPath": "C:\\Users\\supakorn_y\\.nuget\\packages\\",
+        "outputPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\supakorn_y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Model\\Core101.Model.csproj": {
+                "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Model\\Core101.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\Core101.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\Core101.Service.csproj",
+        "projectName": "Core101.Service",
+        "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\Core101.Service.csproj",
+        "packagesPath": "C:\\Users\\supakorn_y\\.nuget\\packages\\",
+        "outputPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\supakorn_y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj": {
+                "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\bin\Debug\netcoreapp3.1\Core101.Reporitory.deps.json
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\bin\Debug\netcoreapp3.1\Core101.Reporitory.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\obj\Debug\netcoreapp3.1\Core101.Reporitory.csprojAssemblyReference.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\obj\Debug\netcoreapp3.1\Core101.Reporitory.AssemblyInfoInputs.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\obj\Debug\netcoreapp3.1\Core101.Reporitory.AssemblyInfo.cs
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\bin\Debug\netcoreapp3.1\Core101.Reporitory.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\bin\Debug\netcoreapp3.1\Core101.Model.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\bin\Debug\netcoreapp3.1\Core101.Model.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\obj\Debug\netcoreapp3.1\Core101.Reporitory.csproj.CoreCompileInputs.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\obj\Debug\netcoreapp3.1\Core101.Reporitory.csproj.CopyComplete
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\obj\Debug\netcoreapp3.1\Core101.Reporitory.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Reporitory\obj\Debug\netcoreapp3.1\Core101.Reporitory.pdb

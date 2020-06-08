@@ -1,0 +1,14 @@
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\bin\Debug\netcoreapp3.1\Core101.Service.deps.json
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\bin\Debug\netcoreapp3.1\Core101.Service.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\bin\Debug\netcoreapp3.1\Core101.Service.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\bin\Debug\netcoreapp3.1\Core101.Model.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\bin\Debug\netcoreapp3.1\Core101.Reporitory.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\bin\Debug\netcoreapp3.1\Core101.Reporitory.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\bin\Debug\netcoreapp3.1\Core101.Model.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\obj\Debug\netcoreapp3.1\Core101.Service.csprojAssemblyReference.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\obj\Debug\netcoreapp3.1\Core101.Service.csproj.CoreCompileInputs.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\obj\Debug\netcoreapp3.1\Core101.Service.AssemblyInfoInputs.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\obj\Debug\netcoreapp3.1\Core101.Service.AssemblyInfo.cs
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\obj\Debug\netcoreapp3.1\Core101.Service.csproj.CopyComplete
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\obj\Debug\netcoreapp3.1\Core101.Service.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Service\obj\Debug\netcoreapp3.1\Core101.Service.pdb

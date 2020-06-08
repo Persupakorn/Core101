@@ -1,0 +1,9 @@
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\bin\Debug\netcoreapp3.1\Core101.Core.deps.json
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\bin\Debug\netcoreapp3.1\Core101.Core.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\bin\Debug\netcoreapp3.1\Core101.Core.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\obj\Debug\netcoreapp3.1\Core101.Core.csprojAssemblyReference.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\obj\Debug\netcoreapp3.1\Core101.Core.csproj.CoreCompileInputs.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\obj\Debug\netcoreapp3.1\Core101.Core.AssemblyInfoInputs.cache
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\obj\Debug\netcoreapp3.1\Core101.Core.AssemblyInfo.cs
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\obj\Debug\netcoreapp3.1\Core101.Core.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Core\obj\Debug\netcoreapp3.1\Core101.Core.pdb

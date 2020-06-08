@@ -1,0 +1,9 @@
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\bin\Debug\Core101.Database.dacpac
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\bin\Debug\Core101.Database.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\bin\Debug\Core101.Database.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\Model.xml
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\refactor.xml
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\postdeploy.sql
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\predeploy.sql
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\Core101.Database.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\Core101.Database.pdb
