@@ -37,6 +37,31 @@ namespace Core101.Reporitory.Base
             return query.Where(where);
         }
 
+        public T Add(T entity)
+        {
+            //clear change tracker that not related to input
+            foreach (var entry in DbContext.ChangeTracker.Entries().Where(m => m.Entity != entity))
+            {
+                switch (entry.State)
+                {
+                    case EntityState.Modified:
+                        entry.State = EntityState.Unchanged;
+                        break;
+                    case EntityState.Added:
+                        entry.State = EntityState.Detached;
+                        break;
+                    // If the EntityState is the Deleted, reload the date from the database.   
+                    case EntityState.Deleted:
+                        entry.Reload();
+                        break;
+                    default: break;
+                }
+            }
+            DbSet.Add(entity);
+            DbContext.SaveChanges();
+            return entity;
+        }
+
         public void Dispose()
         {
             DbContext.Dispose();

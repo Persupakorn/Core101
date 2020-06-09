@@ -9,5 +9,6 @@ namespace Core101.Reporitory.Base
     {
         T Get(Expression<Func<T, bool>> where, params Expression<Func<T, object>>[] includes);
         IEnumerable<T> GetMany(Expression<Func<T, bool>> where, params Expression<Func<T, object>>[] includes);
+        T Add(T entity);
     }
 }
