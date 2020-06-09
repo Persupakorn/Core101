@@ -1,4 +1,3 @@
-D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.csprojAssemblyReference.cache
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.AssemblyInfoInputs.cache
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.AssemblyInfo.cs
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\bin\Debug\netcoreapp3.1\Core101.Model.deps.json

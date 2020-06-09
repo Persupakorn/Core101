@@ -197,12 +197,12 @@
         }
       }
     },
-    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj": {
+    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj",
-        "projectName": "Core101.Reporitory",
-        "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj",
+        "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Repository.csproj",
+        "projectName": "Core101.Repository",
+        "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Repository.csproj",
         "packagesPath": "C:\\Users\\supakorn_y\\.nuget\\packages\\",
         "outputPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\obj\\",
         "projectStyle": "PackageReference",
@@ -282,8 +282,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj": {
-                "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj"
+              "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Repository.csproj": {
+                "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Repository.csproj"
               }
             }
           }

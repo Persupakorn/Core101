@@ -1,6 +1,7 @@
 ﻿using Core101.Model.Entity;
 using Core101.Service;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace Core101.API.Controllers
 {
@@ -14,7 +15,7 @@ namespace Core101.API.Controllers
             _service = service;
         }
         [HttpGet]
-        public Product Get()
+        public IEnumerable<Product> Get()
         {
             var getalldata = _service.Product().GetAllData();
             return getalldata;

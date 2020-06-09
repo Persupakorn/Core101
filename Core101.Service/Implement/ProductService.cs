@@ -1,6 +1,8 @@
 ﻿using Core101.Model.Entity;
 using Core101.Reporitory.Interface;
 using Core101.Service.Interface;
+using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Core101.Service.Implement
@@ -12,9 +14,9 @@ namespace Core101.Service.Implement
         {
             _product = product;
         }
-        public Product GetAllData()
+        public IEnumerable<Product> GetAllData()
         {
-            var alldata = _product.Get(x => x.Price != null);
+            var alldata = _product.GetMany(x => x.Price != null);
             return alldata;
         }
     }

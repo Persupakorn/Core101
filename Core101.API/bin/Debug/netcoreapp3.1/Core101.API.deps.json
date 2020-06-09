@@ -2186,21 +2186,21 @@
           "Core101.Model.dll": {}
         }
       },
-      "Core101.Reporitory/1.0.0": {
+      "Core101.Repository/1.0.0": {
         "dependencies": {
           "Core101.Model": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.4"
         },
         "runtime": {
-          "Core101.Reporitory.dll": {}
+          "Core101.Repository.dll": {}
         },
         "compile": {
-          "Core101.Reporitory.dll": {}
+          "Core101.Repository.dll": {}
         }
       },
       "Core101.Service/1.0.0": {
         "dependencies": {
-          "Core101.Reporitory": "1.0.0"
+          "Core101.Repository": "1.0.0"
         },
         "runtime": {
           "Core101.Service.dll": {}
@@ -4940,7 +4940,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Core101.Reporitory/1.0.0": {
+    "Core101.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

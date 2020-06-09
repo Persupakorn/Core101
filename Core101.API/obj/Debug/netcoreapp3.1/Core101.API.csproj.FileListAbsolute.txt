@@ -134,7 +134,7 @@ D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Model.dll
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Core.pdb
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Model.pdb
-D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Reporitory.dll
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Service.dll
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Service.pdb
-D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Reporitory.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Repository.dll
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.API\bin\Debug\netcoreapp3.1\Core101.Repository.pdb

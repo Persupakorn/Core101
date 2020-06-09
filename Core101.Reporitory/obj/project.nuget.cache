@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "401xiz0XolmmrbcoaXiPcAstUFfCRgUzj3YYQdsXokRTknZ9/axI19znbjOG6ct9sau9GSizBvaV2dLPnvaL/Q==",
+  "dgSpecHash": "/dAaDHc94wY63q+fidMf+awvgyEYns5G3HGEZ2wFD/8qN7l4xl1i8bpEBqXbtgTKDcKZvo+dQVPZNpzujQLd7Q==",
   "success": true,
-  "projectFilePath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Reporitory.csproj",
+  "projectFilePath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\supakorn_y\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\supakorn_y\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -9,11 +9,11 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Core101.Database", "Core101
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core101.Model", "Core101.Model\Core101.Model.csproj", "{73BB9AC0-1867-47CB-A9B4-DC01C8FFC872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core101.Core", "Core101.Core\Core101.Core.csproj", "{5D9D88AF-F4EB-47DA-ABA9-FA0CC0307088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core101.Core", "Core101.Core\Core101.Core.csproj", "{5D9D88AF-F4EB-47DA-ABA9-FA0CC0307088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core101.Reporitory", "Core101.Reporitory\Core101.Reporitory.csproj", "{59F29EA4-29EE-4AFB-A314-DCAEF7271837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core101.Repository", "Core101.Reporitory\Core101.Repository.csproj", "{59F29EA4-29EE-4AFB-A314-DCAEF7271837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core101.Service", "Core101.Service\Core101.Service.csproj", "{68F1FE12-4065-4D90-8CF8-655589CE3633}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core101.Service", "Core101.Service\Core101.Service.csproj", "{68F1FE12-4065-4D90-8CF8-655589CE3633}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

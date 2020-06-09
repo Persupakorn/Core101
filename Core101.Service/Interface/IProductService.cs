@@ -7,6 +7,6 @@ namespace Core101.Service.Interface
 {
     public interface IProductService
     {
-        Product GetAllData();
+        IEnumerable<Product> GetAllData();
     }
 }
