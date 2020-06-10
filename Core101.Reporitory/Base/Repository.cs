@@ -17,6 +17,13 @@ namespace Core101.Reporitory.Base
             DbContext = context;
             DbSet = context.Set<T>();
         }
+
+        public TResult Query<TResult>(Func<IQueryable<T>, TResult> queryFunction)
+        {
+            IQueryable<T> query = DbSet;
+            return queryFunction(query);
+        }
+
         public T Get(Expression<Func<T, bool>> where, params Expression<Func<T, object>>[] includes)
         {
             IQueryable<T> query = DbSet;
@@ -58,6 +65,55 @@ namespace Core101.Reporitory.Base
                 }
             }
             DbSet.Add(entity);
+            DbContext.SaveChanges();
+            return entity;
+        }
+
+        public void Delete(T entity)
+        {
+            foreach (var entry in DbContext.ChangeTracker.Entries().Where(m => m.Entity != entity))
+            {
+                switch (entry.State)
+                {
+                    case EntityState.Modified:
+                        entry.State = EntityState.Unchanged;
+                        break;
+                    //case EntityState.Added:
+                    //    entry.State = EntityState.Detached;
+                    //    break;
+                    // If the EntityState is the Deleted, reload the date from the database.   
+                    case EntityState.Deleted:
+                        entry.Reload();
+                        break;
+                    default: break;
+                }
+            }
+            DbSet.Attach(entity);
+            DbSet.Remove(entity);
+            DbContext.SaveChanges();
+        }
+
+        public T Update(T entity)
+        {
+            //clear change tracker that not related to input
+            foreach (var entry in DbContext.ChangeTracker.Entries().Where(m => m.Entity != entity))
+            {
+                switch (entry.State)
+                {
+                    case EntityState.Modified:
+                        entry.State = EntityState.Unchanged;
+                        break;
+                    //case EntityState.Added:
+                    //    entry.State = EntityState.Detached;
+                    //    break;
+                    // If the EntityState is the Deleted, reload the date from the database.   
+                    case EntityState.Deleted:
+                        entry.Reload();
+                        break;
+                    default: break;
+                }
+            }
+            DbSet.Update(entity);
             DbContext.SaveChanges();
             return entity;
         }

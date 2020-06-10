@@ -6,3 +6,4 @@ D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\bin\Debug\netcoreapp3.
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.csproj.CoreCompileInputs.cache
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.dll
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.pdb
+D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.csprojAssemblyReference.cache
