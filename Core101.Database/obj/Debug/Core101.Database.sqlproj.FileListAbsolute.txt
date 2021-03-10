@@ -8,3 +8,9 @@ D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\predeploy
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\Core101.Database.dll
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\Core101.Database.pdb
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Database\obj\Debug\Core101.Database.sqlprojAssemblyReference.cache
+E:\Work\Project\Core101\Core101.Database\bin\Debug\Core101.Database.dacpac
+E:\Work\Project\Core101\Core101.Database\bin\Debug\Core101.Database.dll
+E:\Work\Project\Core101\Core101.Database\bin\Debug\Core101.Database.pdb
+E:\Work\Project\Core101\Core101.Database\obj\Debug\Core101.Database.sqlprojAssemblyReference.cache
+E:\Work\Project\Core101\Core101.Database\obj\Debug\Core101.Database.dll
+E:\Work\Project\Core101\Core101.Database\obj\Debug\Core101.Database.pdb

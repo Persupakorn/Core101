@@ -7,3 +7,15 @@ D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.dll
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.pdb
 D:\Mfec\supakorn_y\Source\Repos\Core101.API\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.csprojAssemblyReference.cache
+E:\Work\Project\Core101\Core101.Model\bin\Debug\netcoreapp3.1\Core101.Model.deps.json
+E:\Work\Project\Core101\Core101.Model\bin\Debug\netcoreapp3.1\Core101.Model.dll
+E:\Work\Project\Core101\Core101.Model\bin\Debug\netcoreapp3.1\Core101.Model.pdb
+E:\Work\Project\Core101\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.csprojAssemblyReference.cache
+E:\Work\Project\Core101\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.AssemblyInfoInputs.cache
+E:\Work\Project\Core101\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.AssemblyInfo.cs
+E:\Work\Project\Core101\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.csproj.CoreCompileInputs.cache
+E:\Work\Project\Core101\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.dll
+E:\Work\Project\Core101\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.pdb
+E:\Work\Project\Core101\Core101.Model\bin\Debug\netcoreapp3.1\Core101.Core.dll
+E:\Work\Project\Core101\Core101.Model\bin\Debug\netcoreapp3.1\Core101.Core.pdb
+E:\Work\Project\Core101\Core101.Model\obj\Debug\netcoreapp3.1\Core101.Model.csproj.CopyComplete

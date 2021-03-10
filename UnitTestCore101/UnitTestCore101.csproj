@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="Moq" Version="4.15.1" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+    <PackageReference Include="coverlet.collector" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core101.API\Core101.API.csproj" />
+    <ProjectReference Include="..\Core101.Core\Core101.Core.csproj" />
+    <ProjectReference Include="..\Core101.Database\Core101.Database.sqlproj" />
+    <ProjectReference Include="..\Core101.Model\Core101.Model.csproj" />
+    <ProjectReference Include="..\Core101.Reporitory\Core101.Repository.csproj" />
+    <ProjectReference Include="..\Core101.Service\Core101.Service.csproj" />
+  </ItemGroup>
+
+</Project>

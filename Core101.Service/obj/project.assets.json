@@ -1253,10 +1253,21 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Core101.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Core101.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core101.Core.dll": {}
+        }
+      },
       "Core101.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Core101.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.4",
           "Microsoft.EntityFrameworkCore.Relational": "3.1.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.4"
@@ -4952,6 +4963,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Core101.Core/1.0.0": {
+      "type": "project",
+      "path": "../Core101.Core/Core101.Core.csproj",
+      "msbuildProject": "../Core101.Core/Core101.Core.csproj"
+    },
     "Core101.Model/1.0.0": {
       "type": "project",
       "path": "../Core101.Model/Core101.Model.csproj",
@@ -4969,19 +4985,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\supakorn_y\\.nuget\\packages\\": {}
+    "C:\\Users\\Persupakorn\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\Core101.Service.csproj",
+      "projectUniqueName": "E:\\Work\\Project\\Core101\\Core101.Service\\Core101.Service.csproj",
       "projectName": "Core101.Service",
-      "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\Core101.Service.csproj",
-      "packagesPath": "C:\\Users\\supakorn_y\\.nuget\\packages\\",
-      "outputPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Service\\obj\\",
+      "projectPath": "E:\\Work\\Project\\Core101\\Core101.Service\\Core101.Service.csproj",
+      "packagesPath": "C:\\Users\\Persupakorn\\.nuget\\packages\\",
+      "outputPath": "E:\\Work\\Project\\Core101\\Core101.Service\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\supakorn_y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Persupakorn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4993,9 +5013,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Repository.csproj": {
-              "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Reporitory\\Core101.Repository.csproj"
+            "E:\\Work\\Project\\Core101\\Core101.Reporitory\\Core101.Repository.csproj": {
+              "projectPath": "E:\\Work\\Project\\Core101\\Core101.Reporitory\\Core101.Repository.csproj"
             }
           }
         }
@@ -5008,6 +5029,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -5023,7 +5045,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

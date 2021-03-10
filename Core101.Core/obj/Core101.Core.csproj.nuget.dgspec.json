@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj": {}
+    "E:\\Work\\Project\\Core101\\Core101.Core\\Core101.Core.csproj": {}
   },
   "projects": {
-    "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj": {
+    "E:\\Work\\Project\\Core101\\Core101.Core\\Core101.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj",
+        "projectUniqueName": "E:\\Work\\Project\\Core101\\Core101.Core\\Core101.Core.csproj",
         "projectName": "Core101.Core",
-        "projectPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\Core101.Core.csproj",
-        "packagesPath": "C:\\Users\\supakorn_y\\.nuget\\packages\\",
-        "outputPath": "D:\\Mfec\\supakorn_y\\Source\\Repos\\Core101.API\\Core101.Core\\obj\\",
+        "projectPath": "E:\\Work\\Project\\Core101\\Core101.Core\\Core101.Core.csproj",
+        "packagesPath": "C:\\Users\\Persupakorn\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Project\\Core101\\Core101.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\supakorn_y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Persupakorn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

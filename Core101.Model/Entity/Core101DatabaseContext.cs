@@ -17,14 +17,32 @@ namespace Core101.Model.Entity
         }
 
         public virtual DbSet<Product> Product { get; set; }
+        public virtual DbSet<Task> Task { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.HasAnnotation("Scaffolding:ConnectionString", "Data Source=(local);Initial Catalog=Core101.Database;Integrated Security=true");
+
             modelBuilder.Entity<Product>(entity =>
             {
                 entity.Property(e => e.Price).HasColumnType("decimal(18, 2)");
 
                 entity.Property(e => e.ProductName).HasMaxLength(50);
+            });
+
+            modelBuilder.Entity<Task>(entity =>
+            {
+                entity.Property(e => e.Brand).HasMaxLength(50);
+
+                entity.Property(e => e.Cost).HasColumnType("decimal(18, 2)");
+
+                entity.Property(e => e.Costcenter).HasMaxLength(50);
+
+                entity.Property(e => e.ProjectCode).HasMaxLength(50);
+
+                entity.Property(e => e.Revenue).HasColumnType("decimal(18, 2)");
+
+                entity.Property(e => e.TaskCode).HasMaxLength(50);
             });
 
             OnModelCreatingPartial(modelBuilder);

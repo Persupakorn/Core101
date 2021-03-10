@@ -14,4 +14,8 @@
     <Folder Include="Entity\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Core101.Core\Core101.Core.csproj" />
+  </ItemGroup>
+
 </Project>
