@@ -29,7 +29,7 @@ namespace Core101.Service.Implement
         {
            //var alldata = _product.GetMany(x => x.Price != null);
             //return alldata;
-            var uri = new Uri("http://10.4.100.171:8047/MFEC_DEV_PF/WS/MFEC%20Public%20Company%20Limited/Page/Export_Dimension_Brand_for_SQ");
+            var uri =  new Uri("http://10.4.100.171:8047/MFEC_DEV_PF/WS/MFEC%20Public%20Company%20Limited/Page/Export_Dimension_Brand_for_SQ");
             var credentialsCache = new CredentialCache { { uri, "NTLM", CredentialCache.DefaultNetworkCredentials } };
             var handler = new HttpClientHandler { Credentials = credentialsCache };
             var httpClient = new HttpClient(handler) { BaseAddress = uri };
